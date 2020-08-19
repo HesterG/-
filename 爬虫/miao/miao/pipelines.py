@@ -4,7 +4,7 @@
 #
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
-
+# Test
 
 class FilePipeline(object):
     ## 爬虫的分析结果都会由scrapy交给此函数处理
